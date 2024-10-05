@@ -13,7 +13,7 @@ This project implements a serverless data pipeline using AWS services, specifica
 - Amazon Kinesis Firehose
 - Amazon S3
 - Snowflake (for future analysis)
-- Postman (for API testing)
+- Postman 
 
 ## Complete Workflow
 
