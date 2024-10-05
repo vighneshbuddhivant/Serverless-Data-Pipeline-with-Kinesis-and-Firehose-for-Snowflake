@@ -4,7 +4,7 @@
 This project implements a serverless data pipeline using AWS services, specifically designed to handle real-time data ingestion and transformation. The pipeline extracts data from a Postman request via Amazon API Gateway, processes it through AWS Lambda, and stores it in Amazon S3, where it can be analyzed or further processed in Snowflake using Snowpipe.
 
 ## Architecture Diagram
-![Architecture Diagram](link-to-your-diagram)
+![Architecture Diagram](https://github.com/vighneshbuddhivant/Serverless-Data-Pipeline-with-Kinesis-and-Firehose-for-Snowflake/blob/e5d7579a67a6fc20b90f19e774a6168a4491128b/serverless-pipeline-arch.png)
 
 ## Tools and Technologies Used
 - AWS Lambda
