@@ -1,0 +1,1 @@
+# Serverless-Data-Pipeline-with-Kinesis-and-Firehose-for-Snowflake
